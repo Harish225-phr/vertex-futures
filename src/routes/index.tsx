@@ -1,9 +1,9 @@
 import { createFileRoute } from "@tanstack/react-router";
-import { motion, useScroll, useTransform, useInView, useMotionValue, useSpring } from "framer-motion";
+import { motion, useScroll, useTransform, useInView, useSpring } from "framer-motion";
 import { useEffect, useRef, useState } from "react";
 import {
   GraduationCap, Wrench, Cpu, Zap, Users, Award, Target, Building2,
-  Phone, MapPin, Mail, ArrowRight, CheckCircle2, Sparkles, ChevronDown,
+  Phone, MapPin, ArrowRight, CheckCircle2, Sparkles, ChevronDown,
   BookOpen, Briefcase, Star, Menu, X
 } from "lucide-react";
 import campus1 from "@/assets/campus-1.png";
